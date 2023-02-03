@@ -1,0 +1,27 @@
+Success! Created my-app at C:\Users\prath\Desktop\pranjals studies\Github studies\The Forge\BlackBird\Tas
+1\my-app
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+
+  cd my-app
+  npm start
+
+Happy hacking!
+npm notice
+npm notice New major version of npm available! 8.19.3 -> 9.4.1
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v9.4.1
+npm notice Run npm install -g npm@9.4.1 to update!
+npm notice
