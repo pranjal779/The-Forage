@@ -1,4 +1,4 @@
-Success! Created my-app at C:\Users\prath\Desktop\pranjals studies\Github studies\The Forge\BlackBird\Tas
+Success! Created my-app at C:\.............The Forge\BlackBird\Tas
 1\my-app
 Inside that directory, you can run several commands:
 
