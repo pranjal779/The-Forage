@@ -24,3 +24,8 @@ step 5:
 replaced the existing logo in App.js
 
 
+step 6:
+git add -A
+git commit -m ""
+
+
